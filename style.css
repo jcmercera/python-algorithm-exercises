@@ -1,0 +1,42 @@
+body{
+    background-image: url('images/bg_colors.jpg');
+    margin: 0px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+
+
+}
+
+div#header{
+    color: white;
+    background-color: lightcoral;
+    text-align: center;
+    font-family: Monaco, serif;
+}
+
+h2 {
+    color: darkred;
+    padding-left: 35px;
+    font-family: Verdana, serif;
+}
+
+
+.ingredients {
+    font-size: large;
+    font-family: Verdana, serif;
+}
+
+
+.instructions{
+    padding-left: 25px;
+    font-size: large;
+    font-family: Verdana;
+}
+
+.footer{
+    font-family: Verdana;
+    font-size: larger;
+
+
+}
