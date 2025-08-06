@@ -1,1 +1,34 @@
-JEIMY
+# 🧠 Python Algorithm Practice
+
+This repository contains a collection of Python algorithm exercises focused on problem-solving, logic development, and technical interview prep. These scripts were completed as part of my hands-on training at Careerist and are written using clean, readable Python.
+
+---
+
+## 🚀 Topics Covered
+
+- Recursion
+- Sorting algorithms
+- Array manipulation
+- String operations
+- Basic search algorithms
+- Runtime complexity analysis (big-O thinking)
+
+---
+
+## 📁 File Structure
+
+Each `.py` file represents a self-contained problem with a working solution. Examples include:
+
+- `fizzbuzz.py` – classic divisibility loop
+- `factorial_recursive.py` – recursion basics
+- `reverse_string.py` – multiple approaches to reverse strings
+- `two_sum.py` – hash map-based approach to find target pairs
+
+---
+
+## 🛠 How to Run
+
+All scripts are written in standard Python 3 and can be executed individually:
+
+```bash
+python3 filename.py
